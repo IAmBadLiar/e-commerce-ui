@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+E-Commerce UI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Overview
+
+This project is a frontend user interface for an e-commerce platform. It provides a seamless shopping experience with product listings, a product modal for detailed views, and a responsive design.
 
 ## Available Scripts
 
